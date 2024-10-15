@@ -1,0 +1,5 @@
+def check();
+    spin1 = spin.strip()
+    spin = (spin1.translate({ord(i):None for i in 'qwertuiopasdfghjklzxcvb1234567890!@#$%^&*()-_=+[]{};:'".>,</?m'}))
+    
+    
