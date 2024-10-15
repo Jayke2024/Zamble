@@ -1,0 +1,16 @@
+def rooms():
+  room = randint (1,50)
+  if (room >= 2 and room <= 4):
+    print ("A magician appears")
+    sleep (1)
+    hun = input ("he offesrs you a bunny will you accept y/n")
+    stripped_hun = hun.strip ()
+      if (stripped_hun == "y"):
+        moola = moola + 10
+        print ("You sold the bunny for 10 moola")
+        print (str(moola))
+    if (room >= 29 and room <= 32)
+    if (room <= 25 and room >= 23)
+    if (room <= 43 and room >= 40)
+    if (room <= 39 and room >= 37)
+    if (room <= 39 and room >= 37)
