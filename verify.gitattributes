@@ -1,0 +1,13 @@
+from random import randint
+from time import sleep
+def event(randomness)
+    event = (1,50)
+    if (event == 1):
+        print ("A magician appears")
+        sleep (1)
+        hun = input ("he offesrs you a bunny will you accept y/n")
+        stripped_hun = hun.strip ()
+        if (stripped_hun == "y"):
+            moola = moola + 10
+            print ("You sold the bunny for 10 moola")
+            print (str(moola))
