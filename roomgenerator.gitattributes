@@ -13,4 +13,4 @@ def rooms():
     if (room <= 25 and room >= 23)
     if (room <= 43 and room >= 40)
     if (room <= 39 and room >= 37)
-    if (room <= 39 and room >= 37)
+
